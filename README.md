@@ -5,7 +5,7 @@ A simple immutable list (dart). See `lib/i_list.dart`.
 ## How to use
 
 ```dart
-    final list = ImmutableList([1, 2, 3, 4, 5]);
+    final list = IList([1, 2, 3, 4, 5]);
     final list2 = list.transform((it) {
       it.add(6);
       it.remove(1);
