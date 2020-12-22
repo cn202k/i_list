@@ -1,0 +1,14 @@
+name: i_list 
+description: A simple immutable list.
+version: 0.0.1
+homepage:
+repository: https://github.com/cn202k/i_list.git
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  collection: ^1.14.13
+
+dev_dependencies:
+  test:
