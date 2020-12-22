@@ -16,3 +16,6 @@ A simple immutable list (dart). See `lib/i_list.dart`.
 
 # License
 The source code is licensed MIT. The website content is licensed CC BY 4.0,see LICENSE.
+
+# Link
+- ![Available on pub.dev](https://pub.dev/packages/i_list)
